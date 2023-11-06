@@ -10,15 +10,17 @@ export default React.memo(({ age }: ProfileData) => {
         <header className="heading">about me</header>
         <div className="bio">
           <ul>
-            <li>ϡ {age} years old</li>
-            <li>ϡ straight male</li>
-            <li>ϡ commited to the love</li>
-            <li>ϡ cultured degenrate weeb</li>
-            <li>ϡ indian</li>
+            <li>⊰ {age} years old</li>
+            <li>⊰ uwu girl</li>
+            <li>⊰ really loved by a certain somebody</li>
+            <li>⊰ struggles with life</li>
+            <li>⊰ skill issue is being indian woman</li>
             <br />
-            <li>UPI ID for donations: 7988492002@fam</li>
+            <br />
+            <li>Author's note -</li>
+            <li>She is Really Really Cute</li>
             <li>
-              You can donate on my <a href="https://ko-fi.com/tharki">KO-FI</a> too
+              Made For Love By Love.
             </li>
           </ul>
         </div>
