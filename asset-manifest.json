@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/cutie/static/css/main.d1606586.css",
-    "main.js": "/cutie/static/js/main.a10c4d9c.js",
+    "main.css": "/cutie/static/css/main.91f988c0.css",
+    "main.js": "/cutie/static/js/main.c4c96ae4.js",
     "static/media/background.gif": "/cutie/static/media/background.7c910ebf15b98217b9f6.gif",
+    "static/media/idol kazoo.mp3": "/cutie/static/media/idol kazoo.d68fff719fa8c3b46748.mp3",
     "static/media/insta.png": "/cutie/static/media/insta.29524d3f5c7d35435d7d.png",
     "static/media/spotify.png": "/cutie/static/media/spotify.89d21c26dda0e7beff6a.png",
     "static/media/loader.gif": "/cutie/static/media/loader.8e6c70225ebd19029c9d.gif",
+    "static/media/awkward cricket.mp3": "/cutie/static/media/awkward cricket.7863079a66e700505689.mp3",
     "static/media/twitch.png": "/cutie/static/media/twitch.f32ce006addb12ffd9bb.png",
     "static/media/discord.svg": "/cutie/static/media/discord.21d8361b8b93fe828f3dce45a54b6673.svg",
     "index.html": "/cutie/index.html",
     "static/media/steam.svg": "/cutie/static/media/steam.79109479f5f770a91acb8f31f77a3534.svg",
-    "main.d1606586.css.map": "/cutie/static/css/main.d1606586.css.map",
-    "main.a10c4d9c.js.map": "/cutie/static/js/main.a10c4d9c.js.map"
+    "static/media/play.svg": "/cutie/static/media/play.430ef0aeee1a5edad90c93fbb1e0a500.svg",
+    "static/media/pause.svg": "/cutie/static/media/pause.4016f31aa7f28d6cf01939a1d1e18a31.svg",
+    "main.91f988c0.css.map": "/cutie/static/css/main.91f988c0.css.map",
+    "main.c4c96ae4.js.map": "/cutie/static/js/main.c4c96ae4.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1606586.css",
-    "static/js/main.a10c4d9c.js"
+    "static/css/main.91f988c0.css",
+    "static/js/main.c4c96ae4.js"
   ]
 }
