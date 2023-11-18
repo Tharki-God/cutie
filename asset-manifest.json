@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cutie/static/css/main.91f988c0.css",
-    "main.js": "/cutie/static/js/main.c4c96ae4.js",
+    "main.js": "/cutie/static/js/main.886da684.js",
     "static/media/background.gif": "/cutie/static/media/background.7c910ebf15b98217b9f6.gif",
     "static/media/idol kazoo.mp3": "/cutie/static/media/idol kazoo.d68fff719fa8c3b46748.mp3",
     "static/media/insta.png": "/cutie/static/media/insta.29524d3f5c7d35435d7d.png",
@@ -15,10 +15,10 @@
     "static/media/play.svg": "/cutie/static/media/play.430ef0aeee1a5edad90c93fbb1e0a500.svg",
     "static/media/pause.svg": "/cutie/static/media/pause.4016f31aa7f28d6cf01939a1d1e18a31.svg",
     "main.91f988c0.css.map": "/cutie/static/css/main.91f988c0.css.map",
-    "main.c4c96ae4.js.map": "/cutie/static/js/main.c4c96ae4.js.map"
+    "main.886da684.js.map": "/cutie/static/js/main.886da684.js.map"
   },
   "entrypoints": [
     "static/css/main.91f988c0.css",
-    "static/js/main.c4c96ae4.js"
+    "static/js/main.886da684.js"
   ]
 }
