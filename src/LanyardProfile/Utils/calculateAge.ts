@@ -1,7 +1,10 @@
 export default ({ date, month, year }: { date: number; month: number; year: number }): number => {
-  const dob = new Date(year, month, date);
-  const msDifference = Date.now() - dob.getTime();
-  const ageDate = new Date(msDifference);
+  const today = new Date();
+  const dob = new Date(year, month - 1, date);
+  const age = today.getFullYear() - dob.getFullYear();
+  if (today.getMonth() < dob.getMonth() || (today.getMonth() === dob.getMonth() && today.getDate() < dob.getDate())) {
+    return age - 1;
+  }
 
-  return Math.abs(ageDate.getUTCFullYear() - 1970);
+  return age;
 };
